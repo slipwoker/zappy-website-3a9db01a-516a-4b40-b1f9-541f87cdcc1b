@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה ללמוד עריכת וידאו מקצועית מאפס? קורס עריכת וידאו למתחילים של לוג אתרים יהפוך אותך למומחה עם כישורים אמיתיים. התחל עכשיו!
+
+### מסלול למידה
+https://example.com/learning-path
+גלה את מסלול הלמידה המובנה שלנו ללימוד עריכת וידאו מקצועית — מהיסודות ועד טכניקות מתקדמות. כל שלב מוביל אותך קדימה, צעד אחר צעד להצלחה.
+
+### אודות
+https://example.com/about
+למדו מי אנחנו ולמה לוג אתרים היא הבחירה הטובה ביותר ללמוד עריכת וידאו מקצועית. ניסיון אמיתי, תשוקה אמיתית, ותוצאות שמדברות בעד עצמן.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על קורס עריכת וידאו למתחילים? צוות לוג אתרים כאן בשבילך. צור קשר עכשיו ונמצא יחד את המסלול המושלם שיהפוך אותך למקצוען.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
