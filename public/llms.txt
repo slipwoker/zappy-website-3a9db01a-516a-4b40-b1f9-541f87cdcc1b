@@ -1,6 +1,4 @@
-# לוג אתרים — Generative Engine Optimization Map
-
-> An online platform or course dedicated to teaching video editing at a professional level. The brand conveys expertise, empowerment, and mastery — helping learners go from beginner to pro. The vibe is dynamic, creative, and inspiring, with a focus on practical skills and real-world results in video production and post-production.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About לוג אתרים
-An online platform or course dedicated to teaching video editing at a professional level. The brand conveys expertise, empowerment, and mastery — helping learners go from beginner to pro. The vibe is dynamic, creative, and inspiring, with a focus on practical skills and real-world results in video production and post-production.
-
-## Target Audience
-מתחילים ומתקדמים שרוצים ללמוד עריכת וידאו ברמה מקצועית
-
-## Industry
-חינוך מקוון / עריכת וידאו
-
+## About Business
 ---
 
 # Additional Resources
