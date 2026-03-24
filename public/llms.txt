@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# לוג אתרים — Generative Engine Optimization Map
+
+> An online platform or course dedicated to teaching video editing at a professional level. The brand conveys expertise, empowerment, and mastery — helping learners go from beginner to pro. The vibe is dynamic, creative, and inspiring, with a focus on practical skills and real-world results in video production and post-production.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://logatarim.zappy5.app
 רוצה ללמוד עריכת וידאו מקצועית מאפס? קורס עריכת וידאו למתחילים של לוג אתרים יהפוך אותך למומחה עם כישורים אמיתיים. התחל עכשיו!
 
 ### מסלול למידה
-https://example.com/learning-path
+https://logatarim.zappy5.app/learning-path
 גלה את מסלול הלמידה המובנה שלנו ללימוד עריכת וידאו מקצועית — מהיסודות ועד טכניקות מתקדמות. כל שלב מוביל אותך קדימה, צעד אחר צעד להצלחה.
 
 ### אודות
-https://example.com/about
+https://logatarim.zappy5.app/about
 למדו מי אנחנו ולמה לוג אתרים היא הבחירה הטובה ביותר ללמוד עריכת וידאו מקצועית. ניסיון אמיתי, תשוקה אמיתית, ותוצאות שמדברות בעד עצמן.
 
 ### צור קשר
-https://example.com/contact
+https://logatarim.zappy5.app/contact
 יש לך שאלות על קורס עריכת וידאו למתחילים? צוות לוג אתרים כאן בשבילך. צור קשר עכשיו ונמצא יחד את המסלול המושלם שיהפוך אותך למקצוען.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://logatarim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://logatarim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://logatarim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About לוג אתרים
+An online platform or course dedicated to teaching video editing at a professional level. The brand conveys expertise, empowerment, and mastery — helping learners go from beginner to pro. The vibe is dynamic, creative, and inspiring, with a focus on practical skills and real-world results in video production and post-production.
+
+## Target Audience
+מתחילים ומתקדמים שרוצים ללמוד עריכת וידאו ברמה מקצועית
+
+## Industry
+חינוך מקוון / עריכת וידאו
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://logatarim.zappy5.app/sitemap.xml
+- **Robots.txt**: https://logatarim.zappy5.app/robots.txt
